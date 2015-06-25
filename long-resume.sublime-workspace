@@ -1,0 +1,729 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"attr",
+				"attr	.attr() - multiple"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"r",
+				"relative"
+			],
+			[
+				"ch",
+				"children	.children()"
+			],
+			[
+				"clo",
+				"closest	.closest()"
+			],
+			[
+				"c",
+				"click	.click()"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"backgro",
+				"background"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"border-right",
+				"border-right-color"
+			],
+			[
+				"border-top-",
+				"border-top-width"
+			],
+			[
+				"border-left",
+				"border-left-width"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"slide",
+				"slideToggle	.slideToggle()"
+			],
+			[
+				"POS",
+				"pos-r	position: relative;"
+			],
+			[
+				"remove",
+				"removeClass	.removeClass()"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"fi",
+				"first	.first()"
+			],
+			[
+				"f",
+				"first	.first()"
+			],
+			[
+				"ready",
+				"ready	$(document).ready"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"rg",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"let",
+				"left"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 474,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"isp",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet",
+				"Snippet: html"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/learn/long-resume"
+	],
+	"file_history":
+	[
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-06.04/less/mobile.less",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-06.04/less/u.less",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-06.04/developer/js/footable.js",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-06.04/体检档案--列表--移动端--两列版.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-06.04/个人健康档案--移动端.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-06.04/移动端表格.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-06.04/公司产品.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-06.04/关于我们.html",
+		"/D/learn/long-resume/index.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-06.04/排班.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-06.04/排班查看.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-06.04/新闻中心_分类.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-06.04/登录页--姓名-楼盘选择.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-06.04/developer/FooTable-2/js/footable.js",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-06.04/developer/FooTable-2/css/footable.core.css",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-06.04/developer/FooTable-2/css/footable.core.min.css",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-06.04/新闻中心--分类文章.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-06.04/个人中心02_基础信息.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-06.04/新闻中心--文章内容.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-06.04/个人中心03--index.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-06.04/登录页--选择登录口.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-06.04/文章详情页--业主用.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-06.04/登录页--集团选择.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-06.04/个人中心02.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-06.04/新闻中心.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-06.04/huodongxiangqing.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-06.04/huodong--demo2.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-06.04/登录页--验证登录.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-06.04/活动入口--业主用.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-06.04/活动详情页--业主用--蓝色钱江站.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-06.04/登录页--输入手机号码.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/登录页--输入验证码0.2.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/查看健康顾问--业主用0.2.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/less/u.less",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/登录页--输入手机号码.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/css/mobile.css",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/less/mixins/m-u.less",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/developer/ratchet-2.02/css/ratchet.css",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/developer/ratchet-2.02/css/ratchet.min.css",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/填写预约信息--业主用.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/活动详情页--业主用.html",
+		"/D/Desktop/名单.txt",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/less/mobile.less",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/huodongxiangqing.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/huodong--demo.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/huodong--demo2.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/抢资格成功--业主用.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/alert.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/developer/ratchet-2.02/js/ratchet.js",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/客户列表页--健康管理师用.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/填写预约信息.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/文章列表页--业主用.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/登录页--输入验证码.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/个人中心--填写基础信息.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/个人中心02_基础信息.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/个人中心02.html",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack--2015.04.13/developer/bootstrap/css/bootstrap.css",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/文章详情页--业主用.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/客户资料--嵌入页.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/登录页--验证登录.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/搜索页--健康管理师用.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/验证码开通成功--健康管理师用.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/warning.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/demo.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/解除绑定.html",
+		"/D/Work Software/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/登录页--健康管理师专用.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/开通成功--健康管理师用.html",
+		"/D/Work Software/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack--响应式-02.07/less/c.less",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/less/mixins/m-reset.less",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/login.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/个人中心.html",
+		"/D/Work Software/Sublime Text 3/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/css/mixins/m-u.css",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack--响应式-02.07/page-demo/c-form-group.html",
+		"/D/Work/项目--客户个人中心/个人中心02.27/css/main.css",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.23/mobile.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.19/css/mixins/m-u.css",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.19/developer/ratchet-2.02/css/ratchet.css",
+		"/D/Work/项目--客户个人中心/个人中心02.27/css/main - 副本.css",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.19/img/ico_warn.png",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.19/mobile.html",
+		"/D/Work/项目-客户个人中心--手机版/客户个人中心-微信-03.19/less/reset.less",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack--响应式-02.07/less/u.less",
+		"/D/Desktop/关键词排名天次 - 外贸快车客户后台.html",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack--响应式-02.07/developer/bootstrap/css/bootstrap.css",
+		"/D/Work/项目--手机页面/手机demo-02.26/css/mobile.css",
+		"/D/Work/项目--手机页面/手机demo-02.26/less/mixins/m-reset.less",
+		"/D/Work/项目--手机页面/手机demo-02.26/less/u.less",
+		"/D/Work/项目--手机页面/手机demo-02.26/less/reset.less",
+		"/D/Work/项目--手机页面/手机demo-02.26/reset",
+		"/D/Work/项目--手机页面/手机demo-02.26/less/rest.less",
+		"/D/Work/项目--手机页面/手机demo-02.26/developer/ratchet-2.02/css/ratchet-theme-ios.css",
+		"/D/Work/项目--手机页面/手机demo-02.26/mobile.html",
+		"/D/Work/项目--客户个人中心/个人中心1.2/login.html",
+		"/D/Desktop/bootstrap/css/bootstrap.css",
+		"/D/Work/项目--客户个人中心/个人中心1.2/developer/bootstrap/css/bootstrap.css",
+		"/D/Desktop/ie_alert/iealert/style.css",
+		"/D/Desktop/新建文件夹/demo.html",
+		"/D/Work/项目--客户个人中心/个人中心1.2/demo.html",
+		"/D/Work/项目--客户个人中心/个人中心1.2/developer/iealert/iealert.js",
+		"/D/Desktop/demo.html",
+		"/D/Desktop/ie_alert/iealert.js",
+		"/D/Desktop/ie_alert/utf-8.html",
+		"/D/Desktop/ie_alert/demo.html",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack--响应式-02.07/page-demo/iframe-table-col-2.html",
+		"/D/Work/项目--客户个人中心/个人中心1.2/客户-客户套餐.html",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack-01.08/page-demo/c-form-group.html",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack-01.08/page-demo/客户咨询表.html",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack-01.08/page-demo/u-help-class--moreData.html",
+		"/D/Desktop/responsive_email_tpl/index.html",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack-01.08/page-demo/c-tab-group.html",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack-01.08/css/l.css",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack-01.08/less/u.less",
+		"/D/Work/项目--尚医后台软件/less-group--greenBlack-01.08/doctor-group/doctor-group-alert.html",
+		"/D/Work/less-group--greenBlack-01.08/doctor-group/doctor-group-alert.html",
+		"/D/Work/less-group--greenBlack-01.08/less/p-index.less",
+		"/D/Work/less-group--greenBlack-01.08/page-demo/iframe-table-col-2.html",
+		"/D/Work/less-group--greenBlack-01.08/page-demo/iframe-table.html",
+		"/D/Work/less-group--greenBlack-01.08/page-demo/iframe-客户套餐设置.html",
+		"/D/Work/less-group--greenBlack-01.08/js/main.js",
+		"/D/Work/less-group--greenBlack-01.08/less/u.less",
+		"/D/Work/less-group--greenBlack-01.08/less/c.less",
+		"/D/Work/less-group--greenBlack-01.08/less/p-doctor-group.less",
+		"/D/Work/less-group--greenBlack-01.08/doctor-group/bootstrap-switch.html",
+		"/D/Work/less-group--greenBlack-01.08/doctor-group/doctor-查询病人病史.html",
+		"/D/Work/less-group--greenBlack-01.08/js/addDel.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"u-pos--r",
+			">\n",
+			"c-page",
+			"body",
+			"page",
+			"l-page-wrap",
+			"body",
+			"content-padded",
+			"l-page-wrap",
+			"u-text",
+			".modal-header",
+			".c-span.u-pos--r",
+			".input-group-addon",
+			"border-radius: 0;",
+			"table > thead > tr > th",
+			".input-group-addon:first-child",
+			".input-group-addon",
+			"input-group",
+			"rgb(95, 156, 239)",
+			"“这里是重点这里是重点这里是重点这里是重点这里是重点这里是重点”",
+			"高小白",
+			"u-fs--12",
+			"u-fs--20",
+			"u-c--red",
+			"u-c--",
+			"u-mb",
+			"u-mb--5",
+			"u-icon--wraning",
+			"u-m",
+			"input[type=\"search\"] ",
+			"text-indent",
+			";\n",
+			".u-b-rad",
+			"l-footer",
+			"spaces",
+			"tab",
+			"translate_tabs_",
+			"translate_tabs_to_spaces",
+			"auto_indent",
+			"indent_to_bracket",
+			"trim_automatic_white_space",
+			"tab",
+			"u-bg-",
+			"u-bg--c",
+			"u-bg-c",
+			"u-b",
+			"u-bg-c",
+			".u-b--d",
+			"u-b",
+			".content",
+			"c-avatar",
+			"u-b-rad",
+			"u-rad",
+			"page",
+			"ico_warn",
+			"6",
+			"table",
+			".content",
+			"28px",
+			"labanner02",
+			".section",
+			".box-shadow",
+			"widget-box_header_toolbar_btn",
+			".widget-box_body",
+			".table.c-table--normal",
+			"table",
+			" th",
+			"th",
+			".table-hover",
+			"border-left",
+			"hover",
+			"table-hover",
+			".table",
+			".table th, .table td",
+			"table-bordered",
+			"width:66px;",
+			"border-collapse",
+			".table",
+			".table.c-table--normal th{\n	/*border-left:1px solid #CDCDCD;*/\n	/*border-bottom:1px solid #CDCDCD;*/\n	/*border: 1px solid #CDCDCD !important\\9;*/\n	background-color: transparent\\0;\n	background-image: none\\0;\n	filter:none\\0;\n	*background-image: none;\n	*filter:none;\n}",
+			"DDDDDD",
+			"CDCDCD",
+			"\\",
+			"col style=\"width:45px;\"",
+			"col style=\"width:65px;\"",
+			"col style=\"width:90px;\"",
+			"#FCFCFC",
+			".table-examination",
+			".table",
+			"table",
+			"header",
+			".header",
+			"备注",
+			"#ECF0F5",
+			"hide",
+			" footer-logo",
+			"brand logo",
+			"#footer",
+			"footer",
+			"container",
+			"header",
+			"page-title",
+			"fix",
+			"clearfix",
+			".side",
+			"hover",
+			"l-container",
+			"container",
+			"l-side",
+			"l-container-main",
+			"#header .navbar-inner",
+			"footer",
+			"active",
+			"rolling-news",
+			".rolling-news dt",
+			"66B921",
+			".wrap-login",
+			"label.input-text-label",
+			"loginpage",
+			"p-iframe-ht--all",
+			"fun_attr",
+			"groupAdd",
+			"js-groupBtn--delAll",
+			"u-0-",
+			"u-bt--",
+			"u-bt--0",
+			"over",
+			"c-table",
+			"table"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"rgb(1,117,60)",
+			" ",
+			"u-fs--24",
+			"u-c--orange",
+			"width:68px;",
+			"col style=\"width:66px;\"",
+			"col style=\"width:65px;\"",
+			"A3D055",
+			"btn-success"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 474,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								286,
+								286
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "",
+	"project": "long-resume.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"l.css",
+				"css\\l.css"
+			],
+			[
+				"css",
+				"css\\l.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
