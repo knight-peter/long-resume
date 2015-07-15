@@ -1,0 +1,39 @@
+@import "u.less";
+/*
+这个是主要的css。
+ */
+/*loading画面=======================================================*/
+#preloader{
+	.u-bg-c(#fff);
+	bottom:0;
+	left:0;
+	.u-pos--f;
+	right:0;
+	top:0;
+	z-index: 9999;
+}
+#status{
+	background-image: url(../img/488.gif);
+	background-position: center;
+	background-repeat: no-repeat;
+	height:200px;
+	left:50%;
+	margin:-100px 0 0 -100px;
+	.u-pos--a;
+	top:50%;
+	width:200px;
+}
+.status-mes {
+  background: none;
+  left: 0;
+  margin: 0;
+  text-align: center;
+  top: 70%;
+  .u-ht(200px);
+  .u-wh(200px);
+  .u-pos--a;
+  h4 {
+	  color: #222;
+	  .u-mt(30px);
+	}
+}
