@@ -951,10 +951,10 @@ table > thead > tr > th {
   background-repeat: no-repeat;
   height: 200px;
   left: 50%;
-  margin: -100px 0 0 -100px;
+  margin: -100px 0 0 -170px;
   position: absolute;
   top: 50%;
-  width: 200px;
+  width: 340px;
 }
 .status-mes {
   background: none;
@@ -963,10 +963,54 @@ table > thead > tr > th {
   text-align: center;
   top: 70%;
   height: 200px;
-  width: 200px;
+  width: 340px;
   position: absolute;
 }
 .status-mes h4 {
   color: #222;
   margin-top: 30px;
+}
+/*------------------------------------------------------------/*
+ * Navigation
+ /*------------------------------------------------------------*/
+.navbar {
+  background: none;
+  border-radius: 0;
+  border: 0;
+  padding: 20px 0;
+  text-transform: uppercase;
+  color: #FFF !important;
+}
+.c-navbar-main .nav li a:hover,
+.c-navbar-main .nav li a:focus,
+.c-navbar-main .nav li.active {
+  background: none;
+  outline: 0;
+  color: #EF4836;
+}
+.c-navbar-main .navbar-brand {
+  font: 700 18px/1.2 'Montserrat', serif, sans-serif;
+  color: #FFF;
+}
+.c-navbar-main .navbar-nav > li.active {
+  border-bottom: 3px solid #FFF;
+}
+.c-navbar-main .navbar-toggle .icon-bar {
+  background: #FFF;
+}
+.c-navbar-main .navbar-nav > li > a,
+.c-navbar-main .navbar-nav .dropdown-menu > li > a {
+  color: #FFF;
+  font-size: 12px;
+}
+/*------------------------------------------------------------------------------/*
+ * .c-banner-group
+/*------------------------------------------------------------------------------*/
+.c-banner-group {
+  position: relative;
+  z-index: 0;
+  background: none;
+  padding: 260px 0 160px 0;
+  text-align: center;
+  color: #fff;
 }

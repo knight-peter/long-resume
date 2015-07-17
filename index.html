@@ -4,7 +4,6 @@
     <!-- 文档的头部区域中元数据区的字符集定义，这里是UTF-8，表示国际通用的字符集编码 -->
     <meta charset="UTF-8">
     <!-- 文档的头部区域的标题。这里要注意，这个tittle的内容对于SEO来说极其重要 -->
-    <title>查看问卷</title>
     <!-- 文档头部区域的兼容性写法 -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1 ">
     <!-- 文档头部区域元数据区关于网站的关键字 -->
@@ -25,38 +24,55 @@
     <link href="developer/bootstrap-3.3.5-dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="css/master.css">
     <script src="developer/bootstrap-3.3.5-dist/js/bootstrap.min.js" type="text/javascript"></script>
-    <style>
-    .u-ta--c{
-    	text-align: center;
-    }
-    .c-ul--works{
-    	text-align: center;
-    }
-    .c-ul--works li{
-    display: inline-block;
-    }
-    .c-ul--works a{
-    display: block;
-    width: 400px;
-    height: 400px;
-    overflow: hidden;
-    border:1px dashed #ddd;
-    margin-right: 10px;
-    }
-    .c-ul--works a img{
-    	width:100%;
-    }
-    </style>
+
 </head>
 <body>
     <div class="wrapper">
+        <!-- Preloader start -->
         <div id="preloader">
             <div id="status">
                 <div class="status-mes">
-                    <h4>我叫陈国龙</h4>
+                    <h4 id="percent">Long Resume</h4>
+                    <p id="progressbar"></p>
                 </div>
             </div>
         </div>
+        <!-- Preloader end -->
+        <!-- Navigation start -->
+        <nav class="navbar c-navbar-main navbar-fixed-top">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-exanple-navbar-collapse-1">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a href="#" class="navbar-brand">Long Resume</a>
+                </div>
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="active"><a href="#">home</a></li>
+                        <li><a href="#">Profile</a></li>
+                        <li><a href="#">Profile</a></li>
+                        <li><a href="#">Services</a></li>
+                        <li><a href="#">Resume</a></li>
+                        <li><a href="#">Portfolio</a></li>
+                        <li><a href="#">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+            
+        </nav>
+        <!-- Navigation end -->
+        <!-- Banner start -->
+        <section class="c-banner-group">
+            <div class="container"></div>
+            <div class="c-banner-wrap">
+                <img src="img/bg4.jpg" alt="陈国龙的照片">
+            </div>
+        </section>
+        <!-- Banner end -->
     </div>
     <!-- <h1 class="u-ta--c">陈国龙的简历</h1>
     <h2 class="u-ta--c">作品</h2>
@@ -65,5 +81,7 @@
     	<li><a href="#"><img src="img/psb2.jpg" alt=""></a></li>
     	<li><a href="#"><img src="img/psb3.jpg" alt=""></a></li>
     </ul> -->
+    <script type="text/javascript" src="developer/js/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="js/master.js"></script>
 </body>
 </html>
